@@ -1,7 +1,3 @@
-# On each line, the calibration value can be found by combining the 
-# first digit and the last digit (in that order) to 
-# form a single two-digit number.
-
 fn day_one_part_one() raises -> Int32:    
     let input_file_str: FileHandle = open("./puzzles/day_one/input.txt", "r")
     let input_file: String = input_file_str.read()
@@ -98,3 +94,7 @@ fn string_to_int(input_str: String) -> Int32:
         return 9
     else:
         return 0
+
+# On each line, the calibration value can be found by combining the 
+# first digit and the last digit (in that order) to 
+# form a single two-digit number.
