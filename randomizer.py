@@ -1,4 +1,5 @@
 import random
+import datetime
 
 languages = [
     'Python', 'Java', 'C++', 'C#', 'JavaScript', 'Ruby', 
@@ -8,4 +9,4 @@ languages = [
     'TypeScript', 
 ]
 
-print(f"GG bro, today you're doing AOC in {random.choice(languages)}. Good luck!")
+print(f"Today for {datetime.datetime.now().today().strftime('%m/%d')} you're doing AOC in {random.choice(languages)}. Good luck!")
