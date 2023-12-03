@@ -1,0 +1,37 @@
+{
+    "possible_languages": [
+        "Python",
+        "Java",
+        "C#",
+        "JavaScript",
+        "PHP",
+        "Ruby",
+        "Go",
+        "Swift",
+        "R",
+        "Objective-C",
+        "Scala",
+        "Cuda",
+        "C",
+        "TypeScript",
+        "Kotlin",
+        "Ocaml",
+        "Haskell",
+        "Perl",
+        "Julia",
+        "Erlang",
+        "Clojure",
+        "Dart",
+        "F#",
+        "Elixir",
+        "Fortran",
+        "Assembly",
+        "Bash",
+        "PowerShell"
+    ],
+    "completed_languages": [
+        "Mojo",
+        "C++",
+        "Rust"
+    ]
+}
