@@ -5,13 +5,11 @@
         "C#",
         "JavaScript",
         "PHP",
-        "Ruby",
         "Go",
         "Swift",
         "R",
         "Objective-C",
         "Scala",
-        "Cuda",
         "C",
         "TypeScript",
         "Kotlin",
@@ -21,17 +19,16 @@
         "Julia",
         "Erlang",
         "Clojure",
-        "Dart",
-        "F#",
         "Elixir",
-        "Fortran",
-        "Assembly",
-        "Bash",
-        "PowerShell"
+        "Fortran"
     ],
     "completed_languages": [
         "Mojo",
         "C++",
-        "Rust"
+        "Rust",
+        "Zig",
+        "Cuda",
+        "Bash",
+        "Ruby"
     ]
 }

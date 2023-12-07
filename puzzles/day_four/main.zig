@@ -8,6 +8,7 @@ fn isAllDigits(s: []const u8) bool {
 }
 
 pub fn parseNumbers(allocator: *std.mem.Allocator, s: []const u8) ![]u32 {
+    //https://stackoverflow.com/questions/76535068/how-can-i-parse-an-integer-from-a-string-in-zig
     var numbers = std.ArrayList(u32).init(allocator.*);
     defer numbers.deinit();
 
