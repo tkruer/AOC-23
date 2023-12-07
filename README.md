@@ -18,3 +18,15 @@ This will return a random language to work on for the day. Feel free to edit any
 
 ## Day 3 - Rust
 - LFG 
+
+## Day 4 - Zig
+  I didn't finish the second part lol
+
+## Day 5 - Cuda
+  I'm excited for this, hopefully it's not too bad
+
+## Day 6 - Bash
+  I'm already going to hate this 
+
+## Day 7 - Ruby
+  I wish I didn't even put this on the list
